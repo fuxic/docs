@@ -32,7 +32,7 @@ To publish, you must be a user on the npm registry. If you aren't a user, create
 
 Note that everything in the directory will be included unless it is ignored by a local `.gitignore` or `.npmignore` file. To learn how to use these commands, see [`npm-developers`](/misc/developers).
 
-#### Review the Package.Json File
+#### Review the package.json File
 
 Read [Working with package.json](https://docs.npmjs.com/getting-started/using-a-package.json) to be sure that the details you want are reflected in your package.
 
