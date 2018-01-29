@@ -43,7 +43,7 @@ Choose a unique name for your package. Try to choose a descriptive name that:
 *  isn't already owned by somebody else
 *  is not spelled like another name, except with typos
 *  will not confuse others about the authorship
-*  meets [npm policy guidelines](https://https://www.npmjs.com/policies). For example, do not name your package something offensive, and don't use someone else's trademarked name. 
+*  meets [npm policy guidelines](https://www.npmjs.com/policies). For example, do not name your package something offensive, and don't use someone else's trademarked name. 
 
 *Note: The first 3 caveats don't apply if you are using [scopes](https://docs.npmjs.com/cli/version).*
 
